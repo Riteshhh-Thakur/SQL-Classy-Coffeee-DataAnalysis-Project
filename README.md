@@ -7,11 +7,6 @@ This project analyzes coffee sales data across multiple cities to extract action
 - **Database:** PostgreSQL  
 - **Language:** SQL  
 
-## 📁 Database Schema  
-- `products_coffee`: Coffee products with prices.  
-- `cust_coffee`: Customer details.  
-- `city_coffee`: City demographics and rent estimates.  
-- `sales_coffee`: Sales transactions with date, product, customer, and rating.  
 ## Tables
 
 | Table Name      | Description                        |
@@ -34,7 +29,7 @@ This project analyzes coffee sales data across multiple cities to extract action
 - Revenue trends & growth ratio using window functions  
 - Data transformations using CTEs, TEMP TABLES, and JOINS  
 
-## 📊 Example Insights  
+## 📊 Insights Founded 
 - Mumbai has the highest coffee revenue in Q4 2023  
 - Espresso is the top-selling product in Bangalore  
 - Hyderabad customers generate the highest average sale per user  
@@ -48,5 +43,4 @@ This project analyzes coffee sales data across multiple cities to extract action
 - Filtering by `EXTRACT`, `DATE`, and business logic  
 - Analytical thinking and SQL storytelling  
 
-## 📂 Folder Structure  
 
